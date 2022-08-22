@@ -1,0 +1,1 @@
+WebSite feito em um projeto da expotec (feira de projetos de cursos tecnicos da escola  e faculdade Fortec). O intuito do projeto é ajudar as pessoas a medir a quantidade de corrente através de um sensor, e com isso poder medir a quantidade gasta em dinheiro 
